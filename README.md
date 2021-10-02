@@ -4,7 +4,7 @@
 - Aplikasi tentang sejarah soempah pemoeda
 
 ### Screenshot
-{{ Letakan gambar aplikasi disini }}
+![image](https://user-images.githubusercontent.com/57141309/135724367-2abb0ffd-adb5-4bee-874c-422040d822e3.png)
 
 ### Built With
 - Android studio, dart
