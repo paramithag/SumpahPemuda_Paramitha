@@ -7,7 +7,7 @@
 {{ Letakan gambar aplikasi disini }}
 
 ### Built With
-- {{ Komponen apa saja yang dikerjakan untuk membuat aplikasi }}
+- Android studio, dart
 
 ### Created By
 Paramitha Gunawan
