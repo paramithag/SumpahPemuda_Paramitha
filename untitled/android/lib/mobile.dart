@@ -5,12 +5,11 @@ void main() => runApp(MyApp());
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Sumpah Pemuda',
+    title: 'Sumpah Pemuda',
         home: Scaffold(
-          title: Text('Sejarah Sumpah Pemuda'),
             body: Column(
               children: <Widget>[
+                Text('Sejarah Sumpah Pemuda'),
                 Image.network('https://cdn.idntimes.com/content-images/community/2020/10/fromandroid-2613fdf861a454cb5df6a134f949d55c_600x400.jpg'),
                 Text('Soempah Pemoeda\n'),
                 SingleChildScrollView(
